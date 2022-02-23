@@ -1,6 +1,6 @@
 # PyTorch_To_Bare_TensorRT_MNIST
 
-An MNIST example for conversion from PyTorch to bare TensorRT.
+An MNIST example for conversion from PyTorch to a network built by TensorRT C++ API.
 
 # Run
 
