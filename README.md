@@ -4,7 +4,7 @@ An MNIST example for conversion from PyTorch to a network built by TensorRT C++ 
 
 # Run
 
-I'm working on the NVIDIA's docker container for TensorRT [here](https://docs.nvidia.com/deeplearning/tensorrt/container-release-notes/rel_21-09.html). For more detail, please see the [Dockerfile]().
+I'm working on the NVIDIA's docker container for TensorRT [here](https://docs.nvidia.com/deeplearning/tensorrt/container-release-notes/rel_21-09.html). For more detail, please see the [Dockerfile](https://github.com/daisatojp/PyTorch_To_Bare_TensorRT_MNIST/blob/main/.devcontainer/Dockerfile).
 
 ```bash
 git clone https://github.com/daisatojp/PyTorch_To_Bare_TensorRT_MNIST.git
