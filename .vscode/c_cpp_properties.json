@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "PyTorch_To_Bare_TensorRT_MNIST",
+            "includePath": [
+                "/usr/local/cuda-11.4/targets/x86_64-linux/include",
+                "/usr/include/opencv4",
+                "${workspaceFolder}/libtorch_v1.10.2/include",
+                "${workspaceFolder}/libtorch_v1.10.2/include/torch/csrc/api/include"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "defines": []
+        }
+    ],
+    "version": 4
+}
+  

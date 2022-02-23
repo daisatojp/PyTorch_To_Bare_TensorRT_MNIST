@@ -1,0 +1,9 @@
+{
+	"name": "PyTorch_To_Bare_TensorRT_MNIST",
+	"build": {
+		"dockerfile": "Dockerfile",
+	},
+	"runArgs": [
+		"--gpus", "all"
+	]
+}

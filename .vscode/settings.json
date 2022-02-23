@@ -1,0 +1,17 @@
+{
+    "python.defaultInterpreterPath": "/usr/bin/python",
+    "python.linting.pylintEnabled": true,
+    "[python]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4  
+    },
+    "python.linting.pylintArgs": ["--disable=C0111"],
+    "git.ignoreLimitWarning": true,
+    "terminal.integrated.allowChords": false,
+    "terminal.integrated.drawBoldTextInBrightColors": false,
+    "terminal.integrated.experimentalLinkProvider": false,
+    "terminal.integrated.rendererType": "auto",
+    "terminal.integrated.fontSize": 13,
+    "files.associations": {
+    }
+}
